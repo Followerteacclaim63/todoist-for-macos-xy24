@@ -1,4 +1,4 @@
-#  
+#  Enhance Todoist for macOS with Todoist for macOS top Utility - widgets and markdown support, the #1 utility. Includes widgets and markdown support for a smoother experience.
 
 
 
